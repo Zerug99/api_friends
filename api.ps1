@@ -1,0 +1,4 @@
+
+
+
+Write host (Get-Randomjoke))
