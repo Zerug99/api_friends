@@ -1,4 +1,8 @@
 
 
 
-Write host (Get-Randomjoke))
+
+Write host (Get-Randomjoke)
+
+Import-Module ./api.psm1
+
