@@ -5,4 +5,4 @@
 
 Import-Module ./api.psm1
 
-Write-Host (Get-Randomjoke)
+Write-Host "skämt: $($data.value)"
